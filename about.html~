@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" >
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+	<link rel="stylesheet" href="bootstrap-theme.min.css">
+	<link rel="stylesheet" href="style.css">
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script src="bootstrap.min.js"></script>
+	<title>
+		About
+	</title>
+	
+</head>
+<body class="body">
+<div class="container">
+   <div class="section-content">
+	<div class="row">
+	<div class="col-xs-7 " style="height: 745px">
+		<div class="about-text">
+		  <div class="row">
+		    <div class="col-xs-12">
+			<h2 class="section-title uppercase">Hello, My name is Abhi</h2>
+			<p>Abhilash KK, 24 years young, born and grew up in Kumbidi Palakkad, Kerala. Highly motivated creative developer in Hybrid mobile apps.</p>
+			<span class="divider"> </span>
+			<p class="text-grey animated" style="opacity: 1;"> I currently work at DayScholars Innovations Pvt. Ltd, where I spend most of my time development and working on mobile apps. </p>
+
+		    </div>
+		  </div>
+		</div>
+	</div>
+	
+	<div class="col-xs-5" style="height: 745px">
+		<div class="profile-pic">
+		 <img src="pro.jpeg" class="img-responsive" alt="profile picture">
+		</div>
+	</div><!--col-xs-5-->
+    </div>
+      </div>
+</div>
+<!--<nav class="navbar navbar-default navbar-fixed-bottom">
+	<div class="container-fluid">
+	<div class="row">
+	  <div class="navbar-header">
+           <a class="navbar-brand" href="index.html">Abhilash</a>
+          </div>
+	  <ul class="nav navbar-nav">
+           <li><a href="about.html">About me</a></li>
+	   <li><a href="resume.html">Resume</a></li>
+	   <li><a href="portfolio.html">Portfolio</a></li>
+	    <li><a href="contact.html">Contact</a></li>
+	  </ul>
+         </div>
+	</div>
+	</nav>		-->
+<nav class="navbar navbar-default navbar-fixed-bottom" style="background:#232323; color: #fff; opacity: 0.5;">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Abhilash</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="#"> <span class="sr-only">(current)</span></a></li>
+          
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+</body>
+</html>

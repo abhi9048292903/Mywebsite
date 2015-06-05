@@ -1,0 +1,73 @@
+.body{
+background: #232323; 
+*padding-bottom:44px;
+color: #fff;
+}
+
+.person{
+	text-align: center;
+	color: #fff;
+	padding-top: 100px;
+}
+
+.name{
+	font-size: 66px;
+	margin-bottom: 5px;
+	font-weight:200;
+	font-family: "Raleway",sans-serif;
+}
+.dev{
+ text-align: center;
+	word-spacing: normal;}
+.section-content{
+	padding: 100px 0;
+}
+
+.section-title {
+    font-size: 35px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.section-subtitle{
+color: #a1a1a1;
+    font-size: 18px;
+    font-style: italic;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+.text-grey{
+color: #a1a1a1;}
+.divider{
+background-color: #c80a48;
+display: block;
+height:2px;
+width:150px;
+margin: 35px 0;}
+.center{
+margin-left: auto;
+margin-right: auto;}
+
+.contact-details {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.speech{
+height:50px;
+width:170px;
+position:relative;
+margin:auto;}
+.about-text{
+padding-top: 100px;
+padding-right: 20px;
+text-align:justify;}
+.profile-pic{
+height:auto;
+left: 0;
+top: 0;
+width:100%;}
